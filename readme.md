@@ -1,1 +1,1 @@
-*un projet sur Git et JS
+# un projet sur Git et JS
