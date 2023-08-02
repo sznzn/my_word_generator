@@ -1,2 +1,1 @@
-#un projet sur Git et JS
-## markdown
+*un projet sur Git et JS
